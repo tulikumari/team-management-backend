@@ -1,4 +1,4 @@
-# TeamManagerBackend
+# Team Management Backend
 
 This is a backend Web API project built using .NET 8 and Entity Framework Core with SQLite.
 
