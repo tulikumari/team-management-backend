@@ -127,3 +127,4 @@
 /Users/tulikumari/Desktop/Tuli/Member_management_react_c/TeamManagerBackend/obj/Debug/net8.0/ref/TeamManagerBackend.dll
 /Users/tulikumari/Desktop/Tuli/Member_management_react_c/TeamManagerBackend/bin/Debug/net8.0/global1.json
 /Users/tulikumari/Desktop/Tuli/Member_management_react_c/TeamManagerBackend/obj/Debug/net8.0/TeamMana.F494D0EE.Up2Date
+/Users/tulikumari/Desktop/Tuli/Member_management_react_c/TeamManagerBackend/obj/Debug/net8.0/TeamManagerBackend.sourcelink.json
